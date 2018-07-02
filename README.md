@@ -1,1 +1,2 @@
 # StephenForFun
+print 'hi'
